@@ -1,1 +1,1 @@
-# tailwind-css-structure
+# Tailwind-css-structure
